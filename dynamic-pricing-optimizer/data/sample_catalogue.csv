@@ -1,0 +1,9 @@
+product_id,product_name,category,current_price,cost_price,competitor_price,demand_index,inventory_units,daily_sales,min_margin_pct,max_change_pct
+SKU-101,Wireless Headphones,Electronics,2499,1450,2299,78,84,12,15,12
+SKU-102,Everyday Backpack,Accessories,1799,820,1899,62,420,11,18,15
+SKU-103,Smart Watch,Electronics,4999,3300,4599,44,38,9,12,10
+SKU-104,Insulated Bottle,Lifestyle,899,310,949,35,760,18,20,15
+SKU-105,Running Shoes,Apparel,3299,1880,3499,86,26,13,16,10
+SKU-106,USB-C Hub,Electronics,1499,650,1399,53,180,7,15,12
+SKU-107,Desk Lamp,Home Office,1299,540,1199,29,540,8,18,15
+SKU-108,Portable Speaker,Electronics,2199,1190,2399,71,65,10,15,12
